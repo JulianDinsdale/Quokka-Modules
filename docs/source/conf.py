@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Kooka Accelerator'
-copyright = '2023, AustSTEM'
-author = 'Julian Dinsdale and Tony Strasser'
+project = 'Quokka Modules'
+copyright = '2023, Quokka'
+author = 'Julian Dinsdale'
 
 release = '0.1'
 version = '0.1.0'
