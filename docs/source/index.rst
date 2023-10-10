@@ -14,6 +14,7 @@ Contents
 
     module-1.rst
     module-2.rst
+    module-3.rst
 
 :Copyright:
 
