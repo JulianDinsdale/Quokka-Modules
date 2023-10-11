@@ -51,5 +51,20 @@ Specification
         +--------------------------------------+----------------------------------------------+
 
 
+Application
+~~~~~~~~~~~
+
+The module can be used to measure acceleration in three dimensions
+
+
+Module Description
+~~~~~~~~~~~~~~~~~~
+
+The module has been designed as a subset of the Kookaberry and as such can run the Kookaberry 
+firmware and make use of the IDE features in the KookaSuite -  being the KookaIDE, KookaBlockly 
+and the KookaTW.  The latest versions of KookaSuite can be downloaded from Github at 
+https://github.com/kookaberry/kooka-releases/tree/master/KookaSuite
+
+
 
 
