@@ -9,6 +9,11 @@ contains a Raspberry P1 microprocessor RP2040 coupled to an accelerometer LSM303
 contains an 80 mAH battery, USB-C connectivity to a PC plus a push button and LEDs connected 
 to the RP2040
 
+                .. image:: Acc Module.png
+                   :widthe: 400
+                   :height: 300
+                   :alt: Alternative text
+                   
 Specification
 ~~~~~~~~~~~~~
 
