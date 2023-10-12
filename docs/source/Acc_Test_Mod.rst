@@ -91,9 +91,9 @@ the USB-C is not connected.
 
 .. image:: images/AccJumpers.png
     :width: 200
-    :height: 50
     :align: center
     :alt: Alternative Text
+
 
 
 
