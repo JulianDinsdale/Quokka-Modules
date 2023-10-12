@@ -75,6 +75,17 @@ kookaberry/kooka-releases.
 
 
 
+The RP2040 microcontroller is connected to the USB-C and is supported by 3MB of memory and a 12MHz 
+crystal.  It operates at 3.2 volts.
+
+The on board LIR2032 3.6 volt Li-Ion battery is charged via Vbus (5 volts) from the USB-C connector 
+and the Power Management circuit which also regulates the module voltage VCC to 3.2 volts.
+
+Two jumpers (JP2 and JP3) allow the battery to be connected to the module.  With the jumper in the 
+J2 position the battery is not connected to the module.  With the jumper in the J3 position the 
+battery is connected, it can be charged via the USB-C and it can also supply power to the board if 
+the USB-C is not connected.
+
 
 
 
