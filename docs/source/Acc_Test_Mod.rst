@@ -72,9 +72,11 @@ kookaberry/kooka-releases.
 
 
 
-.. figure:: images/Acc_Test_Layout.PNG
+.. figure:: images/Acc_Test_Layout.png
     :width: 400
     :align: center
+    :alt: Alternative Text
+
 
 
 
