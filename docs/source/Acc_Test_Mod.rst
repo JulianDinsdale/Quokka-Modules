@@ -90,7 +90,7 @@ the USB-C is not connected.
 
 
 .. image:: images/AccJumpers.png
-    :width: 200
+    :width: 400
     :height: 100
     :align: center
     :alt: Alternative Text
@@ -100,9 +100,9 @@ the USB-C is not connected.
 A green LED shows when power is connected to the board.  When the board is connected via the USB-C connector 
 to a PC and the battery is connected via jumper J3 the
 
-                *  green LED will show power
-                *  the Power Management Blue LED will show charging of the battery and
-                *  the Orange LED will show when the battert is charged
+* green LED will show power
+* the Power Management Blue LED will show charging of the battery and
+* the Orange LED will show when the battery is charged
 
 
 
