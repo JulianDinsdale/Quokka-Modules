@@ -108,10 +108,12 @@ to a PC and the battery is connected via jumper J3 the
 
 
 The **LSM303** is an Accelerometer / Magnetometer integrated circuit.  It is connected to the RP2040 via an I2C 
-bus and provides magnetic and acceleration readings in three dimensions
+bus and provides magnetic and acceleration readings in three dimensions.
 
 The **Soft Reset** button is a feature of the Kookaberry firmware and when pushed provides a software reset to 
-the Kookaberry firmware./ applications
+the Kookaberry firmware./ applications.
+
+There are two user accessible **LEDs** (Red and Orange) plus a **Push Button**.
 
 
 
