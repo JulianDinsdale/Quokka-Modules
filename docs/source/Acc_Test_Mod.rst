@@ -101,8 +101,13 @@ A green LED shows when power is connected to the board.  When the board is conne
 to a PC and the battery is connected via jumper J3 the
 
 * green LED will show power
+  
 * the Power Management Blue LED will show charging of the battery and
+  
 * the Orange LED will show when the battery is charged
+
+
+
 
 
 
