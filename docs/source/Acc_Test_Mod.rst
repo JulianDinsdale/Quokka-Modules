@@ -88,6 +88,7 @@ battery is connected, it can be charged via the USB-C and it can also supply pow
 the USB-C is not connected.
 
 
+
 .. figure:: images/AccJumpers.png
     :width: 400
     :align: center
