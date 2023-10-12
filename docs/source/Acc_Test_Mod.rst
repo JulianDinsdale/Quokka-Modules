@@ -87,6 +87,13 @@ J2 position the battery is not connected to the module.  With the jumper in the 
 battery is connected, it can be charged via the USB-C and it can also supply power to the board if 
 the USB-C is not connected.
 
+.. figure:: images/AccJumpers.png
+    :width: 400
+    :align: center
+    :alt: Alternative Text
+
+    
+
 
 
 
