@@ -122,8 +122,8 @@ There are two user accessible **LEDs** (Red and Orange) plus a **Push Button**.
     :alt: Alternative Text
 
 
-  Mapping
-  ~~~~~~~
+Mapping
+~~~~~~~
 
 
 
