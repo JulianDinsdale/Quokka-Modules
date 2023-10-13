@@ -145,6 +145,22 @@ Module Mapping
 
 
 
+Sample Code 
+~~~~~~~~~~~
+
+  **KookaBlockly**
+
+    KookaBlockly script to flash the two LEDs.
+
+  .. image:: images/AccLEDonoff.png
+    :width: 400
+    :align: center
+    :alt: Alternative Text
+
+
+
+    
+
 
 
 
