@@ -115,6 +115,7 @@ the Kookaberry firmware./ applications.
 
 There are two user accessible **LEDs** (Red and Orange) plus a **Push Button**.
 
+
 .. image:: images/AccModLEDs.png
     :width: 200
     :align: center
