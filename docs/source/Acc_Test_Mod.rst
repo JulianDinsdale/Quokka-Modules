@@ -164,7 +164,7 @@ Sample Code
     import time
     from machine import Pin
 
-    # Main loop code, run continuously.
+    "\#" Main loop code, run continuously.
     while True:
         Pin("P2", Pin.OUT, value=1)
         Pin("P4", Pin.OUT, value=1)
@@ -180,7 +180,7 @@ Sample Code
 
 
 
-    
+
 
 
 
