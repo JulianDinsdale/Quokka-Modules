@@ -165,6 +165,28 @@ Sample Code
     MicroPython Script to flash the two LEDs
 
 
+.. code-block:: python
+
+import machine, kooka
+import time
+from machine import Pin
+
+# Main loop code, run continuously.
+
+while True:
+    Pin("P2", Pin.OUT, value=1)
+    Pin("P4", Pin.OUT, value=0)
+    time.sleep(0.5)
+    Pin("P2", Pin.OUT, value=0)
+    Pin("P4", Pin.OUT, value=1)
+    time.sleep(0.5)
+    if kooka.button_a.was_pressed():
+        Pin("P2", Pin.OUT, value=0)
+        Pin("P4", Pin.OUT, value=0)
+        raise SystemExit
+    machine.idle()
+
+
 
 
 
