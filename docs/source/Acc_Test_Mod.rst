@@ -159,6 +159,10 @@ Sample Code
 
 
 
+
+**MicroPython script - example**
+
+
 .. code-block:: python
 
     import machine, kooka
