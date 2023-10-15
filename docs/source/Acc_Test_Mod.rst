@@ -165,6 +165,7 @@ Sample Code
     MicroPython script to flash the two LEDs
 
 
+
 .. code-block:: python
 
     import machine, kooka
