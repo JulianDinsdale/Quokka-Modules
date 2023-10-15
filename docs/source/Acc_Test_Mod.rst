@@ -160,9 +160,14 @@ Sample Code
 
 
 
-    **MicroPython script example**
 
-    MicroPython script to flash the two LEDs
+
+
+
+
+
+
+
 
 
 
