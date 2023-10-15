@@ -148,7 +148,7 @@ Module Mapping
 Sample Code 
 ~~~~~~~~~~~
 
-    **KookaBlockly**
+-   **KookaBlockly**
 
     KookaBlockly script to flash the two LEDs.
 
@@ -160,7 +160,16 @@ Sample Code
 
 
 
-    **MicroPython**
+-   **MicroPython**
+
+    MicroPython Script
+
+
+
+
+
+
+
 
 
 
