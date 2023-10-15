@@ -167,6 +167,7 @@ Sample Code
 
 .. code-block:: python
 
+
 import machine, kooka
 import time
 from machine import Pin
@@ -185,6 +186,10 @@ while True:
         Pin("P4", Pin.OUT, value=0)
         raise SystemExit
     machine.idle()
+
+
+
+
 
 
 
