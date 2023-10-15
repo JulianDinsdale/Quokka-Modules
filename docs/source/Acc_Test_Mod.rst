@@ -160,7 +160,7 @@ Sample Code
 
 
 
-    **MicroPython script - example**
+    **MicroPython script example**
 
 
 .. code-block:: python
