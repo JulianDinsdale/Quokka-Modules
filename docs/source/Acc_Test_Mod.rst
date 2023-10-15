@@ -152,7 +152,7 @@ Sample Code
 
     KookaBlockly script to flash the two LEDs.
 
-  .. image:: images/AccLEDonoff.png
+.. image:: images/AccLEDonoff.png
     :width: 400
     :align: center
     :alt: Alternative Text
