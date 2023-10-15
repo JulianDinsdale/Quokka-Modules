@@ -162,7 +162,7 @@ Sample Code
 
 -   **MicroPython**
 
-    MicroPython Script
+    MicroPython Script to flash the two LEDs
 
 
 
