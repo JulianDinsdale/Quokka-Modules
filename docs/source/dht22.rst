@@ -3,7 +3,7 @@ Humidity Temperature –DHT22 Module
 ==================================                 
 QK-02-033
 
-.. figure:: /DHT22_images/image_001.png
+.. figure:: DHT22_images/image_001.png
    :width: 300px
    :align: center
 

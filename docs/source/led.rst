@@ -2,7 +2,7 @@ LED Module
 ==========                                                       
 QK-02-051
 
-.. figure:: /LED_images/image_001.png
+.. figure:: LED_images/image_001.png
    :width: 300px
    :align: center
 
