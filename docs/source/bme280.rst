@@ -2,7 +2,7 @@ BME280 Environment Sensor
 =========================
 QK-01-001
 
-.. figure:: /BME280images/image001.png
+.. figure:: BME280_images/image_001.png
    :width: 300px
    :align: center
 
