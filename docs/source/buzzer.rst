@@ -3,7 +3,7 @@ BUZZER Module
 =============
 QK-02-021
                
-.. image:: /BUZZER_images/image_001.png
+.. figure:: /BUZZER_images/image_001.png
    :width: 300px
    :align: center
 
