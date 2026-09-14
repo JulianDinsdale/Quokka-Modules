@@ -1,0 +1,69 @@
+BME280 Environment Sensor
+=========================
+QK-01-001
+
+.. image:: /BME280_images/image_001.png
+   :width: 300px
+   :align: center
+
+Description
+-----------
+The Environment Sensor uses the Bosch BME280 sensor to detect air pressure, temperature and humidity.  The module is connected to the Kookaberry via a 4 Pin to 4 Pin JST PH cable (QK-03-023)
+When connected to the Kookaberry the module communicates using the standard I2C serial interface, using the integrated I2C MicroPython driver in the Kookaber*-y ,ry firmware.
+
+Specification
+-------------
+Module 
+Operating Temperature	         	-10 to 50 deg C
+Interface			Quokka 4 Pin JST PH
+					Pin 1=Sig A, Pin 2=Sig B, Pin 3=VCC, 
+Pin 4=GND
+Voltage 				3.3 Volts max
+Size				20 x 20 mm
+
+Bosch BME280			See full specifications in Bosch BME280 data sheet
+Pressure range	300 to 1100 hPa (equiv. to +9000 to -500 m above / below sea level
+Package				8-pin LGA metal lid -2.0 x 2.5 x0.96 mm
+Relative accuracy	+/- 0.12hPa, equiv. ti +/- 1m over range 950 to 1050 hPa at 25 deg C
+Absolute accuracy	typ. +/- 1 hPa over range 300 to 1100hPa at 40 deg C
+Temp Range	0 to 65 degC
+Digital Interface	I2C ( up to 400 KHz)
+
+Sample Rate	The sample rate must be greater than once per second
+
+Note: the sensor cannot be immersed in water
+
+
+
+
+
+Interface
+	Quokka 4 pin JST PH     
+Serial I2C
+	I2C Address Is 0x77.  The module has an alternative address of 0x76 when TP1 is connected to TP2.
+	A standard library driver is built into the Kooka Firmware which supports both the BME280 and the BMP280 sensors.
+
+Pinout
+
+Connector              	JST PH 4 Pin
+
+	Pin 1 – Signal A - SCL  	On = Hi=3.3 volts (max) 
+   	Off = Low = 0 volts
+Pin 2 – Signal B - SDA     On = Hi=3.3 volts (max)          
+   	Off = Low = 0 volts
+Pin 3 – VCC            	3.3 volts (max) 
+	Pin 4 – GND           	0 volts
+
+Application
+
+The BME280 Environment Sensor may be used to sample temperature, atmospheric pressure and humidity at sample rates greater than once per second.
+
+Sample Code
+
+Plug the BME280 Environment Sensor into connector P3 on the Kookaberry using a 4 pin to 4 Pin JST PH cable (QK-03-023) ie P3A (GP13), P3B (GP12)
+
+KookaBlocs
+KookaCode
+
+
+Reference Schematic

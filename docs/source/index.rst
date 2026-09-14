@@ -12,9 +12,10 @@ Contents
 
 .. toctree::
 
-    Acc_Test_Mod.rst
-    module-2.rst
-    module-3.rst
+    bme280.rst
+    buzzer.rst
+    dht22.rst
+    led.rst
 
 :Copyright:
 
